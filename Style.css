@@ -418,6 +418,20 @@ body {
     margin-left: 90px;
     font-weight: 20px;
     position: absolute;
+    top: 420px;
+    }
+
+    .bgg {
+    position: absolute;
+    display: flex; 
+    top: 2000px;
+    right: 60px; 
+    }
+    
+    .bgg svg {
+    width: 50px; 
+    height: 100px; 
+    margin-right: 20px; 
     }
 
     .button2 {
